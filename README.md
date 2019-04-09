@@ -5,3 +5,4 @@ Algoritmos y Estructuras de Datos
 • Legajo: 1644877
 • Apellido: Colón
 • Nombre: Nicolás
+• Compilador: GNU GCC Compiler
